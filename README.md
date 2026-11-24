@@ -127,7 +127,7 @@ The current implementation uses browser-based API calls for development. In prod
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
-4. Test thoroughly
+4. Test thoroughlyhttps
 5. Submit a pull request
 
 ## License
@@ -137,3 +137,4 @@ This project is licensed under the MIT License.
 ## Disclaimer
 
 This application is for educational and research purposes. Geopolitical analysis should be verified with multiple sources and official intelligence reports.
+link:-https://geopoliticsai.netlify.app/
